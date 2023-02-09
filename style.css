@@ -1,0 +1,137 @@
+img{
+
+    border-radius: 50%;
+    padding-top: 10px;
+    width: 200px; 
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+body{
+
+    background-color: beige;
+}
+.element{
+    padding-bottom: 10px;
+    margin-left: -63% ;
+    }
+.bold{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 160px; 
+    margin-top: 15px;
+    }  
+
+    nav {
+        background-color: rgb(246, 246, 194);
+        position: sticky;
+        top: 10px;
+        width: 100%;
+
+
+      
+      }
+      
+      
+      .navigate {
+        display: flex;
+        justify-content: center;
+
+      }
+      
+      nav ul {
+        list-style-type: none;
+        margin: 17px;
+        padding: 0;
+
+      }
+      
+      nav li {
+        display: inline-block;
+        margin: 0 20px;
+      }
+  a{
+    text-decoration: dotted;
+    }
+
+.container {
+        display: flex;
+        justify-content: center;
+      }
+      
+.left-section {
+        width: 60%;
+        padding: 20px;
+      }
+      
+.right-section {
+        width: 40%;
+        padding: 20px;
+        margin-top: 50px ;
+        margin-left: -300px;
+             
+      }
+
+hr{
+
+    margin-left: -30%;
+    
+}
+
+table{
+    width: 100%;
+    margin-left: -65%;
+
+}
+
+.title{
+
+    text-align: left;
+    
+}
+.about-p{
+
+    text-align:left ;
+}
+
+.name{
+    font-weight: bold;
+    margin-top: -170px;
+}
+
+.right-section-education{
+    width: 40%;
+    padding: 20px;
+    
+    
+
+}
+
+.table-education{
+
+    margin-top: 10%;
+    border-spacing: 30px;
+}
+
+p.header-education{
+    margin-left: -60%;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+p.credentials{
+
+    margin-left: -60%;
+}
+
+label{
+    margin-top: 40px;
+    margin-left: -350px;
+}
+
+p.Skills-header{
+
+    margin-left: -310px;
+    font-weight: bold;
+    font-size: 50px;
+}
